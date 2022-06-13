@@ -8,4 +8,5 @@
 8. Java
 9. JS
 10. Ptrp 
-    
+11. Cobol
+12. Ensamblador 
