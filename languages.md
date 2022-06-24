@@ -12,3 +12,4 @@
 12. Ensamblador 
 13.jfnwkrnfknkfn
 14. Modificacion 
+15. Cambio Fast forward
