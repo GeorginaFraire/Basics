@@ -14,3 +14,5 @@
 14. Modificacion 
 15. Cambio Fast forward
 16. Nuevo Language
+17. vlvenrvnre
+18. onvewviewjniew
