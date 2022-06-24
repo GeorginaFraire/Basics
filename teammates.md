@@ -1,4 +1,4 @@
-0.5. Francisco Vacio
+
 1. Rafael
 1. Rafael Ruiz Rodríguez
 2. Moisés Taira
