@@ -20,3 +20,4 @@
 20. Lenguaje - main
 21 - Fast forward
 22. Auto solve
+23- otro leguaje fvnerkkm
