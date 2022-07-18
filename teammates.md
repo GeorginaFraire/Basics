@@ -8,7 +8,7 @@
 6. Diego Mota
 7. Impersonar a Moisés
 8. Commit inservible
-9. Georgina Fraire
+
 10. Estefania Miranda 
 11. otro teammate
 12. jjevjervjerbvjb
