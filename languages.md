@@ -18,3 +18,4 @@
 18. vlvenrvnre
 19. onvewviewjniew
 20. Lenguaje - main
+21 - Fast forward
