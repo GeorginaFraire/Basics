@@ -19,3 +19,4 @@
 19. onvewviewjniew
 20. Lenguaje - main
 21 - Fast forward
+22. Auto solve
