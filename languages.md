@@ -24,3 +24,4 @@
 24. Confictos
 25. Cambio branch 01
 26. Cambio en branch 02
+27. Nuevo lenguaje -rebase
